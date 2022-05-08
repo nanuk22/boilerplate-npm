@@ -2,6 +2,10 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Anastasia Mikhailava",
 	"description": "A project to learn node",
+	"keywords": [
+		"freecodecamp",
+		"node"
+	],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
